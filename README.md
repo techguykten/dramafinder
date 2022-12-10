@@ -1,2 +1,9 @@
-# dramafinder
-cringy python project I found in my bottom of D drive
+# Requirements
+- Python
+- Colorama
+# Installation
+Download Python here: https://python.org/downlaod
+# Setup
+Run these codes in the cmd
+`-py -m pip install colorama`
+
